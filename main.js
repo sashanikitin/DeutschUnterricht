@@ -8,6 +8,7 @@ var greatList = [];
 
 
 
+
 function accept(req, res) {
     // если URL запроса /vote, то...
     // console.log(greatList.length);

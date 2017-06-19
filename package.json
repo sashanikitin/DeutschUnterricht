@@ -11,7 +11,7 @@
     "heroku"
   ],
   "author": "jane-doe",
-  "license": "MIT"  
+  "license": "MIT", 
   "engines": {
     "node": "4.4.7"
   }
