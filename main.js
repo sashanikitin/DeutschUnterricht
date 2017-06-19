@@ -2,7 +2,7 @@ var http = require('http');
 var url = require('url');
 var static = require('node-static');
 var file = new static.Server('.');
-var fs = require("fs");
+
 var greatList = [];
 
 
@@ -10,34 +10,10 @@ var greatList = [];
 
 
 function accept(req, res) {
-    // если URL запроса /vote, то...
-    // console.log(greatList.length);
-    greatList = [];
-    if (req.url == '/submit') {
-        if (req.method == 'POST') {
-            var post_data = '';
-            req.on('data', function (data) {
-                post_data += data;
-            });
-            req.on('end', function () {
-                res.writeHead(200, {'Content-Type': 'text/plain'});
-                console.log(post_data);
-                
-                listClosures(post_data);
-                setTimeout(function () {
-                    var mes="";
-                    greatList.forEach(function (item, i, arr) {
-                        mes += i + ": " + item.name + "  " + item.path + "<br>";
-                    });
-                    res.end(mes);
-                }, 2000);
-            });
-        }
-
-    } else {
-        // иначе считаем это запросом к обычному файлу и выводим его
+   
+   
         file.serve(req, res); // (если он есть)
-    }
+   
 
 }
 
