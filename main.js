@@ -6,8 +6,7 @@ var fs = require("fs");
 var greatList = [];
 
 
-//Hi
-//Hi
+
 
 function accept(req, res) {
     // если URL запроса /vote, то...
