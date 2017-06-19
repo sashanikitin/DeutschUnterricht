@@ -21,14 +21,10 @@ function accept(req, res) {
 // ------ этот код запускает веб-сервер -------
 
 if (!module.parent) {
-    http.createServer(accept).listen(8080);
+    http.createServer(accept).listen(process.env.PORT || 5000);
 } else {
     exports.accept = accept;
 }
-
-
-
-
 
 
 
