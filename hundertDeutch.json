@@ -1,0 +1,6344 @@
+[
+ {
+   "verb": "Hallo! ",
+   "meaning": "Привет!",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Guten Tag!",
+   "meaning": "Добрый день!",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Entschuldigung!",
+   "meaning": "Извини(те)!",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Bitte",
+   "meaning": "пожалуйста",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Danke",
+   "meaning": "спасибо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Gern geschehen",
+   "meaning": "не за что ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Schade",
+   "meaning": "жаль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Tschüss!",
+   "meaning": "Пока!",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Auf Wiedersehen!",
+   "meaning": "До свидания!",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Leute",
+   "meaning": " люди",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mensch",
+   "meaning": "человек",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mann",
+   "meaning": "мужчина; муж",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Frau",
+   "meaning": "женщина; жена",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kind ",
+   "meaning": "ребенок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Junge",
+   "meaning": "мальчик",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Mädchen",
+   "meaning": "девочка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Freund",
+   "meaning": "друг",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bekannte",
+   "meaning": "знакомый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Nachbar",
+   "meaning": "сосед",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Gast ",
+   "meaning": "гость",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Chef ",
+   "meaning": "начальник; шеф",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Konkurrent",
+   "meaning": "конкурент",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kunde",
+   "meaning": "клиент",
+   "examples": " покупатель",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kollege",
+   "meaning": "коллега",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Familie",
+   "meaning": "семья",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Eltern ",
+   "meaning": "родители",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Vater",
+   "meaning": "отец",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Vati",
+   "meaning": "папа",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Mutter",
+   "meaning": "мать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Mutti",
+   "meaning": "мама",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Sohn",
+   "meaning": "сын",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tochter",
+   "meaning": "дочь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bruder",
+   "meaning": "брат",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schwester",
+   "meaning": "сестра",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Großvater",
+   "meaning": "дед",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Opa",
+   "meaning": "дедушка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Großmutter",
+   "meaning": "бабушка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Oma",
+   "meaning": "бабуля",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Enkel",
+   "meaning": "внук",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Enkelin",
+   "meaning": "внучка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schwiegervater",
+   "meaning": "тесть",
+   "examples": " свекор",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schwiegermutter",
+   "meaning": "тёща",
+   "examples": " свекровь",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Onkel",
+   "meaning": "дядя",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tante",
+   "meaning": "тетя",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Cousin [кузэн]",
+   "meaning": "двоюродный брат",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kusine",
+   "meaning": "двоюродная сестра",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Neffe",
+   "meaning": "племянник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Nichte",
+   "meaning": "племянница",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Arbeit",
+   "meaning": "работа",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Geschäftsmann",
+   "meaning": "бизнесмен",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Lehrer",
+   "meaning": "учитель",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fahrer ",
+   "meaning": "водитель",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Arbeiter ",
+   "meaning": "рабочий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Ingenieur",
+   "meaning": "инженер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Arzt",
+   "meaning": "врач",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Rechtsanwalt",
+   "meaning": "адвокат",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Journalist",
+   "meaning": "журналист",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Krankenschwester ",
+   "meaning": "медсестра",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Verkäufer",
+   "meaning": "продавец",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kellner",
+   "meaning": "официант",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Buchhalter",
+   "meaning": "бухгалтер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Maler",
+   "meaning": "художник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Musiker",
+   "meaning": "музыкант",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schauspieler",
+   "meaning": "актер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Student",
+   "meaning": "студент",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schüler",
+   "meaning": "школьник",
+   "examples": " ученик",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Tier",
+   "meaning": "животное",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Katze",
+   "meaning": "кошка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Hund",
+   "meaning": "собака",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Vogel",
+   "meaning": "птица",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Eichhörnchen",
+   "meaning": "белка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Wolf",
+   "meaning": "волк",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Gans",
+   "meaning": "гусь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Giraffe",
+   "meaning": "жираф",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kaninchen",
+   "meaning": "кролик",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Hase",
+   "meaning": "заяц",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kuh",
+   "meaning": "корова",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Ratte",
+   "meaning": "крыса",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fuchs",
+   "meaning": "лиса",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Pferd",
+   "meaning": "лошадь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Frosch",
+   "meaning": "лягушка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bär",
+   "meaning": "медведь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Maus",
+   "meaning": "мышь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Affe",
+   "meaning": "обезьяна",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Schwein",
+   "meaning": "свинья",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Elefant",
+   "meaning": "слон",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Ente",
+   "meaning": "утка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Land",
+   "meaning": "страна; сельская местность; земля",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Russland ",
+   "meaning": "Россия ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Deutschland",
+   "meaning": "Германия",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Österreich",
+   "meaning": "Австрия",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schweiz",
+   "meaning": "Швейцария",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Stadt",
+   "meaning": "город",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Haus",
+   "meaning": "дом",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gebäude",
+   "meaning": "здание",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Platz",
+   "meaning": "площадь; место",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Eingang",
+   "meaning": "вход",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Ausgang",
+   "meaning": "выход",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Zentrum",
+   "meaning": "центр",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Hof",
+   "meaning": "двор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Dach",
+   "meaning": "крыша",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Zaun",
+   "meaning": "забор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Dorf",
+   "meaning": "деревня",
+   "examples": " поселок",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schule",
+   "meaning": "школа",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Universität",
+   "meaning": "университет",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Theater",
+   "meaning": "театр",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kirche",
+   "meaning": "церковь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Restaurant",
+   "meaning": "ресторан",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Cafe",
+   "meaning": "кафе",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Hotel",
+   "meaning": "гостиница",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Bank",
+   "meaning": "банк",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kino",
+   "meaning": "кинотеатр",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Krankenhaus",
+   "meaning": "больница",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Polizei",
+   "meaning": "полиция",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Postamt",
+   "meaning": "почта",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bahnhof",
+   "meaning": "станция",
+   "examples": " вокзал",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Flughafen",
+   "meaning": "аэропорт",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Geschäft",
+   "meaning": "магазин",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Apotheke",
+   "meaning": "аптека",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Markt",
+   "meaning": "рынок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Büro",
+   "meaning": "офис",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Firma",
+   "meaning": "фирма",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Betrieb",
+   "meaning": "предприятие",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Straße",
+   "meaning": "улица",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Weg",
+   "meaning": "дорога",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kreuzung",
+   "meaning": "перекрёсток",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Haltestelle",
+   "meaning": "остановка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Gehsteig",
+   "meaning": "тротуар",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Pfad",
+   "meaning": "тропа",
+   "examples": " тропинка",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Garten",
+   "meaning": "сад",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Park",
+   "meaning": "парк",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Brücke",
+   "meaning": "мост",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fluss",
+   "meaning": "река",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Wald",
+   "meaning": "лес",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Feld",
+   "meaning": "поле",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Berg",
+   "meaning": "гора",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der See",
+   "meaning": "озеро",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Meer",
+   "meaning": "море",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Ozean",
+   "meaning": "океан",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Küste",
+   "meaning": "морской берег",
+   "examples": " побережье",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Strand",
+   "meaning": "пляж",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Sand",
+   "meaning": "песок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Insel",
+   "meaning": "остров",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Grenze",
+   "meaning": "граница",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Zoll",
+   "meaning": "таможня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Müll",
+   "meaning": "мусор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Abfälle",
+   "meaning": "отходы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Stein",
+   "meaning": "камень",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Pflanze",
+   "meaning": "растение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Baum",
+   "meaning": "дерево",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gras",
+   "meaning": "трава",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Blume",
+   "meaning": "цветок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Blatt",
+   "meaning": "лист",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Wohnung",
+   "meaning": "квартира",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Zimmer",
+   "meaning": "комната",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Wohnzimmer",
+   "meaning": "зал",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Schlafzimmer",
+   "meaning": "спальня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Badezimmer",
+   "meaning": "ванная",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Dusche",
+   "meaning": "душ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Toilette",
+   "meaning": "туалет",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Küche",
+   "meaning": "кухня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Flur",
+   "meaning": "коридор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Balkon",
+   "meaning": "балкон",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fußboden ",
+   "meaning": "пол",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Decke",
+   "meaning": "потолок; одеяло",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Wand",
+   "meaning": "стена",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Treppe",
+   "meaning": "лестница",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tür",
+   "meaning": "дверь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Fenster",
+   "meaning": "окно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Fensterbrett",
+   "meaning": "подоконник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Gardine",
+   "meaning": "занавес(ка)",
+   "examples": " штора",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schalter",
+   "meaning": "выключатель; окошко (кассы)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Steckdose",
+   "meaning": "розетка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Wasserhahn",
+   "meaning": "(водопроводный) кран",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Rohr",
+   "meaning": "труба",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schornstein ",
+   "meaning": "дымовая труба",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": " die Möbel",
+   "meaning": "мебель",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Tisch",
+   "meaning": "стол",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Stuhl",
+   "meaning": "стул",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Sessel",
+   "meaning": "кресло",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Couch [кáуч]",
+   "meaning": "диван",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Bett",
+   "meaning": "кровать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schrank",
+   "meaning": "шкаф",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Regal",
+   "meaning": "полка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Spiegel",
+   "meaning": "зеркало",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Teppich",
+   "meaning": "ковер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kühlschrank",
+   "meaning": "холодильник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Mikrowelle",
+   "meaning": "микроволновка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Ofen",
+   "meaning": "печь",
+   "examples": " духовка",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Herd",
+   "meaning": "кухонная плита",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Lebensmittel",
+   "meaning": "еда",
+   "examples": " продукты",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Brot",
+   "meaning": "хлеб",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Butter",
+   "meaning": "сливочное масло",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Öl ",
+   "meaning": "растительное масло",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Käse",
+   "meaning": "сыр",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Wurst",
+   "meaning": "колбаса",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Würstchen",
+   "meaning": "сосиска",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schinken",
+   "meaning": "ветчина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Fleisch",
+   "meaning": "мясо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Rindfleisch",
+   "meaning": "говядина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Schweinefleisch",
+   "meaning": "свинина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Lammfleisch",
+   "meaning": "баранина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Hähnchen",
+   "meaning": "курица (мясо)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kotelett",
+   "meaning": "котлета",
+   "examples": " отбивная",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fisch",
+   "meaning": "рыба",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Ei",
+   "meaning": "яйцо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Salat",
+   "meaning": "салат",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Pilze",
+   "meaning": "грибы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mais",
+   "meaning": "кукуруза",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Brei",
+   "meaning": "каша",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Haferflocken",
+   "meaning": "овсянка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Suppe",
+   "meaning": "суп ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das belegte Brötchen",
+   "meaning": "бутерброд",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Reis",
+   "meaning": "рис",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Nudeln",
+   "meaning": "лапша",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Mehl",
+   "meaning": "мука",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gewürz",
+   "meaning": "специя",
+   "examples": " пряность",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Pfeffer",
+   "meaning": "перец",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Salz",
+   "meaning": "соль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Zwiebel",
+   "meaning": "лук (репчатый)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Knoblauch",
+   "meaning": "чеснок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Soße",
+   "meaning": "соус",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gemüse",
+   "meaning": "овощи",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kartoffeln",
+   "meaning": "картофель",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Mohrrübe",
+   "meaning": "морковь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Zuckerrübe",
+   "meaning": "свекла",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tomate",
+   "meaning": "помидор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Gurke",
+   "meaning": "огурец",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kohl",
+   "meaning": "капуста",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Zucchini [цукини]",
+   "meaning": "кабачок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Aubergine [обэр'жинэ]",
+   "meaning": "баклажан",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Bohnen",
+   "meaning": "бобы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Erbsen",
+   "meaning": "горох",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Nuss",
+   "meaning": "орех",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Obst ",
+   "meaning": "фрукты",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Apfel",
+   "meaning": "яблоко",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Birne",
+   "meaning": "груша",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Banane",
+   "meaning": "банан",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Beere",
+   "meaning": "ягода",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Erdbeere",
+   "meaning": "клубника",
+   "examples": " земляника",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Himbeere",
+   "meaning": "малина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kirsche",
+   "meaning": "вишня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Pflaume",
+   "meaning": "слива",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Trauben ",
+   "meaning": "виноград",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Aprikose",
+   "meaning": "абрикос",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Pfirsich",
+   "meaning": "персик",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Melone",
+   "meaning": "дыня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Wassermelone",
+   "meaning": "арбуз",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kürbis",
+   "meaning": "тыква",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Orange [орáнжэ]",
+   "meaning": "апельсин",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Mandarine",
+   "meaning": "мандарин",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Zitrone",
+   "meaning": "лимон",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Ananas",
+   "meaning": "ананас",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Zucker",
+   "meaning": "сахар",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Honig",
+   "meaning": "мёд ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Marmelade",
+   "meaning": "варенье",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kuchen",
+   "meaning": "торт",
+   "examples": " пирог",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Brötchen",
+   "meaning": "булочка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gebäck",
+   "meaning": "печенье",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Süßigkeiten",
+   "meaning": "конфеты",
+   "examples": " сладости",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Eis",
+   "meaning": "мороженое; лёд",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schokolade",
+   "meaning": "шоколад",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Wasser",
+   "meaning": "вода",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Sodawasser",
+   "meaning": "газировка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Saft",
+   "meaning": "сок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Wein",
+   "meaning": "вино",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Tee",
+   "meaning": "чай",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kaffee",
+   "meaning": "кофе",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Milch",
+   "meaning": "молоко",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Sahne",
+   "meaning": "сливки",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Joghurt",
+   "meaning": "йогурт",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Quark",
+   "meaning": "творог",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Geschirr",
+   "meaning": "посуда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tasse",
+   "meaning": "чашка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Glas",
+   "meaning": "стакан; стекло",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Becher",
+   "meaning": "кружка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Teller",
+   "meaning": "тарелка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Löffel",
+   "meaning": "ложка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Gabel",
+   "meaning": "вилка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Messer",
+   "meaning": "нож",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Untertasse",
+   "meaning": "блюдце",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Flasche",
+   "meaning": "бутылка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Serviette",
+   "meaning": "салфетка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Topf",
+   "meaning": "кастрюля; горшок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Pfanne",
+   "meaning": "сковородка ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kessel",
+   "meaning": "чайник; котел",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Mahlzeit",
+   "meaning": "принятие пищи",
+   "examples": " еда",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Frühstück",
+   "meaning": "завтрак",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Mittagessen",
+   "meaning": "обед",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Abendessen",
+   "meaning": "ужин",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Transport ",
+   "meaning": "транспорт",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Flugzeug",
+   "meaning": "самолет",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Auto",
+   "meaning": "автомобиль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Straßenbahn",
+   "meaning": "трамвай",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bus",
+   "meaning": "автобус",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Zug",
+   "meaning": "поезд",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Schiff",
+   "meaning": "корабль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Fahrrad",
+   "meaning": "велосипед",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Zeit",
+   "meaning": "время",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Minute",
+   "meaning": "минута",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Stunde",
+   "meaning": "час",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Woche",
+   "meaning": "неделя",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Jahr",
+   "meaning": "год",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Jahrhundert",
+   "meaning": "век",
+   "examples": " столетие ",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Mal",
+   "meaning": "раз",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vorgestern",
+   "meaning": "позавчера",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gestern",
+   "meaning": "вчера",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "heute",
+   "meaning": "сегодня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "morgen",
+   "meaning": "завтра",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "übermorgen",
+   "meaning": "послезавтра",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Tag",
+   "meaning": "день",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Morgen",
+   "meaning": "утро ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Nachmittag",
+   "meaning": "время до полудня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Nachmittag",
+   "meaning": "время после полудня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Abend",
+   "meaning": "вечер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Nacht",
+   "meaning": "ночь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Montag ",
+   "meaning": "понедельник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Dienstag",
+   "meaning": "вторник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mittwoch",
+   "meaning": "среда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Donnerstag",
+   "meaning": "четверг",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Freitag",
+   "meaning": "пятница",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Samstag",
+   "meaning": "суббота",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Sonntag",
+   "meaning": "воскресенье",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Monat",
+   "meaning": "месяц",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Januar",
+   "meaning": "январь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Februar",
+   "meaning": "февраль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der März",
+   "meaning": "март",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der April",
+   "meaning": "апрель",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mai",
+   "meaning": "май",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Juni",
+   "meaning": "июнь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Juli",
+   "meaning": "июль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der August",
+   "meaning": "август",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der September",
+   "meaning": "сентябрь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Oktober",
+   "meaning": "октябрь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der November",
+   "meaning": "ноябрь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Dezember",
+   "meaning": "декабрь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "manchmal",
+   "meaning": "иногда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nie",
+   "meaning": "никогда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "selten",
+   "meaning": "редко",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gewöhnlich",
+   "meaning": "обычно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "oft",
+   "meaning": "часто",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "immer",
+   "meaning": "всегда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bald ",
+   "meaning": "скоро",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vor kurzem",
+   "meaning": "недавно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Jahreszeit",
+   "meaning": "время года",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Frühling",
+   "meaning": "весна",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Sommer",
+   "meaning": "лето",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Herbst",
+   "meaning": "осень",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Winter",
+   "meaning": "зима",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Fest",
+   "meaning": "праздник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Weihnachten",
+   "meaning": "Рождество",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Ostern",
+   "meaning": "Пасха",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Geburtstag",
+   "meaning": "день рождения",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Formular",
+   "meaning": "формуляр",
+   "examples": " бланк",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Name",
+   "meaning": "имя",
+   "examples": " фамилия; название;",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Vorname",
+   "meaning": "имя",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Nachname",
+   "meaning": "фамилия",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mädchenname",
+   "meaning": "девичья фамилия",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Geburtsdatum",
+   "meaning": "дата рождения",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Geburtsort",
+   "meaning": "место рождения",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Adresse",
+   "meaning": "адрес",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Familienstand",
+   "meaning": "семейное положение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ledig",
+   "meaning": "холостой",
+   "examples": " незамужняя",
+   "FIELD4": ""
+ },
+ {
+   "verb": "verheiratet",
+   "meaning": "женатый / замужняя",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "geschieden",
+   "meaning": "разведенный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "verwitwet",
+   "meaning": "овдовевший",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Sache",
+   "meaning": "вещь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kugelschreiber",
+   "meaning": "ручка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bleistift",
+   "meaning": "карандаш",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Buch",
+   "meaning": "книга",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Heft",
+   "meaning": "тетрадь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Notizbuch",
+   "meaning": "блокнот",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Notiz",
+   "meaning": "пометка",
+   "examples": " запись",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Wörterbuch",
+   "meaning": "словарь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Buchstabe",
+   "meaning": "буква",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Brief",
+   "meaning": "письмо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Umschlag",
+   "meaning": "конверт",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Papier",
+   "meaning": "бумага",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Zeitung",
+   "meaning": "газета",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Zeitschrift",
+   "meaning": "журнал",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Telefon",
+   "meaning": "телефон",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Handy [хэнди]",
+   "meaning": "сотовый телефон",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Uhr",
+   "meaning": "часы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kamm",
+   "meaning": "расчёска",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fernseher",
+   "meaning": "телевизор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Bűgeleisen",
+   "meaning": "утюг",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Seife",
+   "meaning": "мыло",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Radio",
+   "meaning": "радио",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tasche",
+   "meaning": "сумка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Rucksack",
+   "meaning": "рюкзак",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Karte",
+   "meaning": "карта",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Postkarte",
+   "meaning": "открытка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Koffer",
+   "meaning": "чемодан",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Geschenk",
+   "meaning": "подарок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kamera",
+   "meaning": "камера",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fotoapparat",
+   "meaning": "фотоаппарат",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Vase",
+   "meaning": "ваза",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Taschentuch",
+   "meaning": "носовой платок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Ball",
+   "meaning": "мяч",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Luftballon",
+   "meaning": "воздушный шар(ик)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Spielzeug",
+   "meaning": "игрушка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Fahrkarte",
+   "meaning": "билет (на поезд)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fahrschein",
+   "meaning": "билет (на городской транспорт)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Ticket",
+   "meaning": "билет (на самолёт)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gepäck",
+   "meaning": "багаж",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Batterie",
+   "meaning": "батарейка",
+   "examples": " аккумулятор",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Eimer",
+   "meaning": "ведро",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Leine",
+   "meaning": "веревка ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tafel",
+   "meaning": "доска (школьная)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Brett",
+   "meaning": "доска",
+   "examples": " брусок",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kalender",
+   "meaning": "календарь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Laptop [лэптоп]",
+   "meaning": "ноутбук ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Bürste",
+   "meaning": "щетка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Pinsel",
+   "meaning": "кисть",
+   "examples": " кисточка",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tastatur",
+   "meaning": "клавиатура ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Taste",
+   "meaning": "клавиша",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schlüssel",
+   "meaning": "ключ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Rad",
+   "meaning": "колесо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Lenkrad",
+   "meaning": "руль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kofferraum ",
+   "meaning": "багажник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Benzin",
+   "meaning": "бензин",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Geldbörse",
+   "meaning": "кошелек",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Brieftasche",
+   "meaning": "бумажник",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Lampe",
+   "meaning": "лампа",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Lineal",
+   "meaning": " линейка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schaufel",
+   "meaning": "лопата",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Maschine",
+   "meaning": "машина; механизм",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Hammer",
+   "meaning": "молоток",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schere",
+   "meaning": "ножницы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Brille",
+   "meaning": "очки",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Paket",
+   "meaning": "посылка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Stock",
+   "meaning": "палка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Klebstoff",
+   "meaning": "клей",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Handtuch",
+   "meaning": "полотенце",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Draht",
+   "meaning": "проволока",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kabel",
+   "meaning": "провод",
+   "examples": " кабель",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Seite",
+   "meaning": "страница",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Taschenlampe",
+   "meaning": "карманный фонарь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kasten",
+   "meaning": "ящик",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kiste",
+   "meaning": "коробка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Laken",
+   "meaning": "простыня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kissen",
+   "meaning": "подушка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kleidung",
+   "meaning": "одежда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schuhe",
+   "meaning": "обувь",
+   "examples": " туфли",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Stiefel",
+   "meaning": "сапоги",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Turnschuhe",
+   "meaning": "кроссовки",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mantel",
+   "meaning": "пальто",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kleid",
+   "meaning": "платье",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Anzug",
+   "meaning": "костюм",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Hemd",
+   "meaning": "рубашка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Bluse",
+   "meaning": "блузка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Rock",
+   "meaning": "юбка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Handschuhe",
+   "meaning": "перчатки",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Fäustlinge",
+   "meaning": "варежки",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Hut",
+   "meaning": "шляпа",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Mütze",
+   "meaning": "шапка; кепка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Jacke",
+   "meaning": "Куртка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Strickjacke",
+   "meaning": "кофта",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Sakko",
+   "meaning": "пиджак",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schal",
+   "meaning": "шарф",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Socke",
+   "meaning": "носок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Pullover",
+   "meaning": "свитер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das T-Shirt [тишёрт]",
+   "meaning": "футболка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kravatte",
+   "meaning": "галстук",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Hose",
+   "meaning": "брюки",
+   "examples": " штаны",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Shorts [шортс]",
+   "meaning": "шорты",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Strumpfhose",
+   "meaning": "колготки",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Strümpfe",
+   "meaning": "чулки",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Jeans [джинз]",
+   "meaning": "джинсы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kapuze",
+   "meaning": "капюшон",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Gürtel",
+   "meaning": "ремень",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Unterwäsche",
+   "meaning": "нижнее белье ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Unterhose",
+   "meaning": "трусы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Büstenhaĺter",
+   "meaning": "бюстгальтер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Körper",
+   "meaning": "тело",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kopf",
+   "meaning": "голова",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gesicht",
+   "meaning": "лицо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Stirn",
+   "meaning": "лоб",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Nase",
+   "meaning": "нос",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Ohr",
+   "meaning": "ухо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mund",
+   "meaning": "рот",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Hals",
+   "meaning": "горло; шея",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Auge",
+   "meaning": "глаз",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Augenbraue ",
+   "meaning": "бровь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Lippen",
+   "meaning": "губы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Zahn",
+   "meaning": "зуб",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Haar",
+   "meaning": "волос(ы)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schnurrbart",
+   "meaning": "усы ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bart",
+   "meaning": "борода",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Wange",
+   "meaning": "щека",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kinn",
+   "meaning": "подбородок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schulter",
+   "meaning": "плечо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Brust",
+   "meaning": "грудь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Herz",
+   "meaning": "сердце",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bauch",
+   "meaning": "живот",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Rücken",
+   "meaning": "спина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Handgelenk",
+   "meaning": "запястье",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Hand",
+   "meaning": "рука",
+   "examples": " кисть (руки) ",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Arm",
+   "meaning": "рука (вся) ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Finger",
+   "meaning": "палец (руки)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Nagel",
+   "meaning": "ноготь; гвоздь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Ellenbogen",
+   "meaning": "локоть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Bein",
+   "meaning": "нога",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Knie",
+   "meaning": "колено",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fuß",
+   "meaning": "нога",
+   "examples": " ступня; подножие",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Ferse",
+   "meaning": "пятка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Zehe",
+   "meaning": "палец (ноги)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Knochen",
+   "meaning": "кость",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Gesundheit",
+   "meaning": "здоровье",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gesund",
+   "meaning": "здоровый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "krank",
+   "meaning": "больной",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Krankheit",
+   "meaning": "болезнь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Fieber ",
+   "meaning": "жар",
+   "examples": " (высокая) температура",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Husten",
+   "meaning": "кашель",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schnupfen",
+   "meaning": "насморк",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "niesen",
+   "meaning": "чихать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schmerz",
+   "meaning": "боль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kopfschmerzen",
+   "meaning": "головная боль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "weh tun",
+   "meaning": "болеть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Grippe",
+   "meaning": "грипп ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Erkältung",
+   "meaning": "простуда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Prellung",
+   "meaning": "синяк",
+   "examples": " ушиб",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Ereignis",
+   "meaning": "событие",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Geburt",
+   "meaning": "рождение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Spiel",
+   "meaning": "игра",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Unterricht",
+   "meaning": "занятие (урок) ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Urlaub",
+   "meaning": "отпуск",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Ferien",
+   "meaning": "каникулы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Party [пати]",
+   "meaning": "вечеринка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Treffen",
+   "meaning": "встреча",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Versammlung- собрание",
+   "meaning": "",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Hochzeit",
+   "meaning": "свадьба",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Verhandlungen",
+   "meaning": "переговоры",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Reise",
+   "meaning": "поездка",
+   "examples": " путешествие",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Tod",
+   "meaning": "смерть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Wetter",
+   "meaning": "погода",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Sonne",
+   "meaning": "солнце",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Mond",
+   "meaning": "луна",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Wind",
+   "meaning": "ветер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Nebel",
+   "meaning": "туман",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Regen",
+   "meaning": "дождь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schnee",
+   "meaning": "снег",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Himmel",
+   "meaning": "небо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Wolke",
+   "meaning": "облако",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Luft",
+   "meaning": "воздух",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Temperatur",
+   "meaning": "температура",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Grad",
+   "meaning": "градус",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Kunst",
+   "meaning": "искусство",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Musik",
+   "meaning": "музыка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Lied",
+   "meaning": "песня",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Literatur",
+   "meaning": "литература",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Geschichte",
+   "meaning": "рассказ",
+   "examples": " история",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Film",
+   "meaning": "фильм; пленка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Skulptur",
+   "meaning": "скульптура",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Bild ",
+   "meaning": "картина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Foto",
+   "meaning": "фото",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Werbung",
+   "meaning": "реклама",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Einkäufe",
+   "meaning": "покупки",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Größe",
+   "meaning": "размер",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Preis",
+   "meaning": "цена",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Geld",
+   "meaning": "деньги",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Bargeld ",
+   "meaning": "наличные (деньги)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Rabatt",
+   "meaning": "скидка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Konto",
+   "meaning": "счет (банковский)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Rechnung",
+   "meaning": "счёт (для оплаты)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Trinkgeld",
+   "meaning": "чаевые",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Messen",
+   "meaning": "измерение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Entfernung",
+   "meaning": "расстояние",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Distanz",
+   "meaning": "дистанция",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Länge",
+   "meaning": "длина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Höhe",
+   "meaning": "высота",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Tiefe",
+   "meaning": "глубина",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Stärke",
+   "meaning": "сила",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Geschwindigkeit",
+   "meaning": "скорость",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Kilometer",
+   "meaning": "километр",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Kilogramm",
+   "meaning": "килограмм",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Pfund",
+   "meaning": "фунт",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gefühl",
+   "meaning": "чувство",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Spaß",
+   "meaning": "веселье",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Freude",
+   "meaning": "радость",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Angst",
+   "meaning": "страх",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Traurigkeit",
+   "meaning": "печаль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Leidenschaft",
+   "meaning": "страсть",
+   "examples": " страстность",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Vergnügen",
+   "meaning": "удовольствие",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Glück",
+   "meaning": "счастье",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Frieden",
+   "meaning": "мир (покой)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lieben ",
+   "meaning": "любить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hassen",
+   "meaning": "ненавидеть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Welt",
+   "meaning": "мир (планета)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Seele",
+   "meaning": "душа",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Leben",
+   "meaning": "жизнь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Wissen",
+   "meaning": "знание",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Aufgabe",
+   "meaning": "задача",
+   "examples": " задание",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Übung",
+   "meaning": "упражнение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Problem",
+   "meaning": "проблема",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Gelegenheit",
+   "meaning": "(благоприятная) возможность",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Fähigkeit",
+   "meaning": "способность",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Schönheit",
+   "meaning": "красота",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Gefahr",
+   "meaning": "опасность",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Erfahrung",
+   "meaning": "опыт",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Gedächtnis",
+   "meaning": "память",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Erinnerung",
+   "meaning": "воспоминание",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Nutzen",
+   "meaning": "польза",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Vorteil",
+   "meaning": "преимущество",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Gewinn -выигрыш; прибыль",
+   "meaning": " доход",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Gewohnheit",
+   "meaning": "привычка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Grund",
+   "meaning": "причина; грунт",
+   "examples": " земля",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Konsequenz",
+   "meaning": "(по)следствие",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Bedeutung",
+   "meaning": "значение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Mittel",
+   "meaning": "средство",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Anstrengung",
+   "meaning": "усилие",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Erfolg",
+   "meaning": "успех",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Ziel",
+   "meaning": "цель",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Wunder ",
+   "meaning": "чудо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Wissenschaft",
+   "meaning": "наука",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Sprache ",
+   "meaning": "язык",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Wort",
+   "meaning": "слово",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Feuer",
+   "meaning": "огонь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Fall",
+   "meaning": "случай; дело; падение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Umstand",
+   "meaning": "обстоятельство",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Gedanke",
+   "meaning": "мысль",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Wahl",
+   "meaning": "выбор ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Erlaubnis",
+   "meaning": "разрешение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Lieferung ",
+   "meaning": "доставка; поставка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Leistung",
+   "meaning": "достижение",
+   "examples": " успех",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Pflicht",
+   "meaning": "обязанность",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Verzögerung",
+   "meaning": "задержка",
+   "examples": " промедление",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Beziehung",
+   "meaning": "отношение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Note",
+   "meaning": "оценка",
+   "examples": " отметка",
+   "FIELD4": " знак; нота"
+ },
+ {
+   "verb": "der Fehler",
+   "meaning": "ошибка",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Benehmen",
+   "meaning": "поведение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Einladung",
+   "meaning": "приглашение",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Entwicklung",
+   "meaning": "развитие",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Entscheidung",
+   "meaning": "решение",
+   "examples": " принятие решения",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Lösung",
+   "meaning": "решение (проблемы)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Rat",
+   "meaning": "совет",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Vereinbarung",
+   "meaning": "соглашение; согласие",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Vertrag",
+   "meaning": "договор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Liste",
+   "meaning": "список",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Streit",
+   "meaning": "спор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Test ",
+   "meaning": "тест",
+   "examples": " испытание",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Prüfung",
+   "meaning": "экзамен",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Schritt",
+   "meaning": "шаг",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Stück",
+   "meaning": "кусок; штука",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "der Bereich",
+   "meaning": "область",
+   "examples": " сфера",
+   "FIELD4": ""
+ },
+ {
+   "verb": "das Paar",
+   "meaning": "пара",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Oberfläche",
+   "meaning": "поверхность",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Ordnung",
+   "meaning": "порядок",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Frage",
+   "meaning": "вопрос",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "was",
+   "meaning": "что",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wer",
+   "meaning": "кто",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wo",
+   "meaning": "где",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wohin",
+   "meaning": "куда ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "woher",
+   "meaning": "откуда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wie",
+   "meaning": "как ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "welcher",
+   "meaning": "какой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "warum",
+   "meaning": "почему",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wozu",
+   "meaning": "зачем",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wenn",
+   "meaning": "когда; если",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wie viel (wie viele)",
+   "meaning": "сколько",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ich",
+   "meaning": "я ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "du",
+   "meaning": "т",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "er",
+   "meaning": "он",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sie",
+   "meaning": "она",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "es",
+   "meaning": "оно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wir",
+   "meaning": "мы ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ihr",
+   "meaning": "вы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sie",
+   "meaning": "они ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Sie",
+   "meaning": "Вы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "mein",
+   "meaning": "мой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dein",
+   "meaning": "твой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sein",
+   "meaning": "его",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ihr",
+   "meaning": "её; их",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "unser",
+   "meaning": "наш ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "euer",
+   "meaning": "ваш",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Ihr",
+   "meaning": "Ваш",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "aus",
+   "meaning": "из",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "von",
+   "meaning": "от; передает род. падеж; с (такого-то времени)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "seit",
+   "meaning": "с (такого-то времени и поныне)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zu",
+   "meaning": "к; слишком",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "in",
+   "meaning": "в; через (такое-то время)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "auf",
+   "meaning": "на",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "unter",
+   "meaning": "под",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hinter",
+   "meaning": "позади",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "mit",
+   "meaning": "с",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ohne",
+   "meaning": "без",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vor ",
+   "meaning": "перед",
+   "examples": " до; (столько-то времени) назад",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nach",
+   "meaning": "после; в (такой-то город или страну)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zwischen",
+   "meaning": "между",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "neben",
+   "meaning": "возле",
+   "examples": " около",
+   "FIELD4": ""
+ },
+ {
+   "verb": "für",
+   "meaning": "для; на (такое-то время)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "während",
+   "meaning": "во время",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "um",
+   "meaning": "вокруг",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wegen",
+   "meaning": "из-за",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "über",
+   "meaning": "над; о; свыше",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gegen",
+   "meaning": "против",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "unter",
+   "meaning": "под; среди",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "durch",
+   "meaning": "через ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "pro",
+   "meaning": "(километров) в (час)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "die Farbe",
+   "meaning": "цвет",
+   "examples": " краска",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schwarz",
+   "meaning": "чёрный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "blau ",
+   "meaning": "голубой; синий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "braun",
+   "meaning": "коричневый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "grün",
+   "meaning": "зелёный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "grau",
+   "meaning": "серый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "rot",
+   "meaning": "красный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "weiß",
+   "meaning": "белый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gelb",
+   "meaning": "желтый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "rosa",
+   "meaning": "розовый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "violett",
+   "meaning": "фиолетовый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "alt",
+   "meaning": "старый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "jung",
+   "meaning": "молодой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "neu",
+   "meaning": "новый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "groß",
+   "meaning": "большой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "riesig",
+   "meaning": "огромный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "klein",
+   "meaning": "маленький",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dick",
+   "meaning": "толстый; густой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dünn",
+   "meaning": "тонкий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hungrig",
+   "meaning": "голодный ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "satt",
+   "meaning": "сытый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "voll",
+   "meaning": "полный ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "leer",
+   "meaning": "пустой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gut",
+   "meaning": "хороший; добрый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ausgezeichnet",
+   "meaning": "отличный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "erstaunlich",
+   "meaning": "удивительный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wunderschön ",
+   "meaning": "прекрасный",
+   "examples": " чудесный",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schlecht",
+   "meaning": "плохой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schrecklich",
+   "meaning": "ужасный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "früh",
+   "meaning": "ранний; рано",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "spät",
+   "meaning": "поздний; поздно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vorig",
+   "meaning": "последний",
+   "examples": " прошлый",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nächst",
+   "meaning": "следующий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "frei",
+   "meaning": "свободный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kostenlos",
+   "meaning": "бесплатный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "beschäftigt",
+   "meaning": "занятый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "heiß",
+   "meaning": "жаркий; горячий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "warm",
+   "meaning": "тёплый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kalt",
+   "meaning": "холодный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kühl",
+   "meaning": "прохладный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "scharf",
+   "meaning": "острый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "stumpf",
+   "meaning": "тупой (нож)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dumm",
+   "meaning": "глупый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "klug",
+   "meaning": "умный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schön",
+   "meaning": "красивый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "attraktiv",
+   "meaning": "привлекательный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hübsch",
+   "meaning": "симпатичный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hässlich",
+   "meaning": "уродливый",
+   "examples": " безобразный",
+   "FIELD4": " отвратительный"
+ },
+ {
+   "verb": "hoch",
+   "meaning": "высокий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "niedrig",
+   "meaning": "низкий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lang",
+   "meaning": "длинный; долгий ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kurz",
+   "meaning": "короткий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schwer",
+   "meaning": "тяжёлый ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "leicht",
+   "meaning": "лёгкий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schwierig",
+   "meaning": "трудный",
+   "examples": " тяжелый",
+   "FIELD4": ""
+ },
+ {
+   "verb": "einfach",
+   "meaning": "простой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dunkel",
+   "meaning": "тёмный ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hell",
+   "meaning": "светлый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "teuer",
+   "meaning": "дорогой (о цене) ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lieb",
+   "meaning": "дорогой",
+   "examples": " милый",
+   "FIELD4": ""
+ },
+ {
+   "verb": "billig",
+   "meaning": "дешёвый ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "arm",
+   "meaning": "бедный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "reich",
+   "meaning": "богатый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gerade ",
+   "meaning": "прямой; прямо",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "links",
+   "meaning": "cлева",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "rechts",
+   "meaning": "справа",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "falsch",
+   "meaning": "неправильный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schnell ",
+   "meaning": "быстрый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "langsam",
+   "meaning": "медленный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "weich",
+   "meaning": "мягкий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hart",
+   "meaning": "твёрдый; жесткий; трудный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "traurig",
+   "meaning": "печальный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "froh",
+   "meaning": "радостный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "glücklich",
+   "meaning": "счастливый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lustig",
+   "meaning": "веселый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "böse",
+   "meaning": "сердитый",
+   "examples": " злой",
+   "FIELD4": ""
+ },
+ {
+   "verb": "höflich",
+   "meaning": "вежливый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "grob",
+   "meaning": "грубый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zart",
+   "meaning": "нежный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "mutig",
+   "meaning": "смелый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "feige- трусливый",
+   "meaning": "",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "scheu",
+   "meaning": "застенчивый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fleißig",
+   "meaning": "прилежный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "faul",
+   "meaning": "ленивый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nützlich",
+   "meaning": "полезный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nutzlos",
+   "meaning": "бесполезный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "stark",
+   "meaning": "сильный; крепкий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schwach",
+   "meaning": "слабый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "laut",
+   "meaning": "громкий",
+   "examples": " шумный ",
+   "FIELD4": ""
+ },
+ {
+   "verb": "leise",
+   "meaning": "тихий",
+   "examples": " негромкий",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ruhig",
+   "meaning": "тихий",
+   "examples": " спокойный",
+   "FIELD4": ""
+ },
+ {
+   "verb": "eng ",
+   "meaning": "узкий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "breit",
+   "meaning": "широкий",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sauber",
+   "meaning": "чистый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schmutzig",
+   "meaning": "грязный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "müde",
+   "meaning": "усталый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ehrlich",
+   "meaning": "честный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bequem",
+   "meaning": "уютный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "seltsam",
+   "meaning": "странный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "eigen",
+   "meaning": "собственный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schmackhaft",
+   "meaning": "вкусный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bitter",
+   "meaning": "горький",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sauer",
+   "meaning": "кислый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "salzig",
+   "meaning": "соленый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bereit",
+   "meaning": "готовый (что-то сделать)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fertig",
+   "meaning": "готовый (завершенный)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "aufmerksam",
+   "meaning": "внимательный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vorsichtig",
+   "meaning": "осторожный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "Haupt...",
+   "meaning": "главный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fähig",
+   "meaning": "способный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "notwendig",
+   "meaning": "необходимый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wichtig",
+   "meaning": "важный",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sicher",
+   "meaning": "уверенный ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "echt",
+   "meaning": "настоящий",
+   "examples": " истинный; \"правда?\"",
+   "FIELD4": ""
+ },
+ {
+   "verb": "besser",
+   "meaning": "лучше; более хороший",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "best ",
+   "meaning": "лучший",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "mehr ",
+   "meaning": "больше (по количеству); более",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "meist",
+   "meaning": "наибольший (по количеству)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lieber",
+   "meaning": "лучше",
+   "examples": " охотней",
+   "FIELD4": ""
+ },
+ {
+   "verb": "am liebsten",
+   "meaning": "охотней всего",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "weit",
+   "meaning": "далеко",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "genau",
+   "meaning": "точно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wahrscheinlich",
+   "meaning": "вероятно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vielleicht",
+   "meaning": "может быть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wirklich",
+   "meaning": "действительно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "natürlich",
+   "meaning": "конечно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sicherlich",
+   "meaning": "наверняка",
+   "examples": " безусловно",
+   "FIELD4": ""
+ },
+ {
+   "verb": "offensichtlich",
+   "meaning": "очевидно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "besonders",
+   "meaning": "особенно ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gern",
+   "meaning": "охотно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ja ",
+   "meaning": "да",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nein",
+   "meaning": "нет",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nicht",
+   "meaning": "не",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dieser",
+   "meaning": "этот ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "jener",
+   "meaning": "тот",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "viele",
+   "meaning": "много (+ слово во множественном числе)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "viel",
+   "meaning": "много (+ слово в единственном числе)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wenige",
+   "meaning": "мало (+ слово во множественном числе)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wenig",
+   "meaning": "мало (+ слово в единственном числе)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "einige",
+   "meaning": "некоторые",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "mehrere",
+   "meaning": "несколько",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "jemand",
+   "meaning": "кто-то",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "niemand",
+   "meaning": "никто",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "etwas",
+   "meaning": "что-то",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nichts",
+   "meaning": "ничто ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "alles",
+   "meaning": "всё",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "alle",
+   "meaning": "все",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hier",
+   "meaning": "здесь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hierher",
+   "meaning": "сюда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dort",
+   "meaning": "там",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dorthin",
+   "meaning": "туда ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "da",
+   "meaning": "тут; так как",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "jetzt",
+   "meaning": "сейчас",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wieder",
+   "meaning": "снова",
+   "examples": " опять",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dann",
+   "meaning": "потом",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "damals",
+   "meaning": "тогда",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "als",
+   "meaning": "чем (при сравнении); когда; в качестве",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bereits",
+   "meaning": "уже",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nur",
+   "meaning": "только",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "noch",
+   "meaning": "ещё",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fast",
+   "meaning": "почти",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sehr",
+   "meaning": "очень",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "every",
+   "meaning": "каждый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "jeder",
+   "meaning": "каждый",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "anderer",
+   "meaning": "другой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "solcher",
+   "meaning": "такой",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "so",
+   "meaning": "так",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "also",
+   "meaning": "итак",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "oben",
+   "meaning": "вверху",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "unten",
+   "meaning": "внизу",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zusammen",
+   "meaning": "вместе",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vorwärts",
+   "meaning": "вперед",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vorne",
+   "meaning": "впереди",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sogar",
+   "meaning": "даже",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "genug",
+   "meaning": "достаточно",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "auch",
+   "meaning": "тоже",
+   "examples": " также",
+   "FIELD4": ""
+ },
+ {
+   "verb": "und",
+   "meaning": "и",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "oder",
+   "meaning": "или",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "aber",
+   "meaning": "но",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "jedoch",
+   "meaning": "однако",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "weil",
+   "meaning": "потому что",
+   "examples": " так как ",
+   "FIELD4": ""
+ },
+ {
+   "verb": "deshalb",
+   "meaning": "поэтому",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ob",
+   "meaning": "ли",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "obwohl",
+   "meaning": "хотя",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dass",
+   "meaning": "что",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sein",
+   "meaning": "быть",
+   "examples": " являться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "tun",
+   "meaning": "делать (вообще)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "machen",
+   "meaning": "делать (что-то)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "haben",
+   "meaning": "иметь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "können",
+   "meaning": "мочь (быть в состоянии) ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "dürfen",
+   "meaning": "мочь (иметь разрешение)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wollen",
+   "meaning": "хотеть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "mögen",
+   "meaning": "любить",
+   "examples": " нравиться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "möchten",
+   "meaning": "хотелось бы",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "müssen",
+   "meaning": "быть должным (по внутренним причинам)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sollen",
+   "meaning": "быть должным (по внешним причинам)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "haben zu",
+   "meaning": "должен (что-то сделать)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sein zu",
+   "meaning": "должен (быть сделанным)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "brauchen",
+   "meaning": "нуждаться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gehen",
+   "meaning": "идти",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fahren",
+   "meaning": "ехать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "finden",
+   "meaning": "находить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "halten",
+   "meaning": "держать; останавливаться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "stehen",
+   "meaning": "стоять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sitzen",
+   "meaning": "сидеть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hören",
+   "meaning": "слышать",
+   "examples": " слушать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gewinnen",
+   "meaning": "побеждать",
+   "examples": " выигрывать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "erhalten",
+   "meaning": "получать (офиц.)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bekommen",
+   "meaning": "получать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kriegen",
+   "meaning": "получать (разг.)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kommen",
+   "meaning": "приходить",
+   "examples": " приезжать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "werden",
+   "meaning": "становиться; передаёт будущее время; передаёт страдательный залог",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "laufen",
+   "meaning": "бежать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sehen",
+   "meaning": "видеть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schreiben",
+   "meaning": "писать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fallen",
+   "meaning": "падать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "tragen ",
+   "meaning": "носить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "nehmen",
+   "meaning": "брать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "geben",
+   "meaning": "давать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schenken",
+   "meaning": "дарить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "entschuldigen",
+   "meaning": "прощать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vergessen",
+   "meaning": "забывать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "essen",
+   "meaning": "кушать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "liegen",
+   "meaning": "лежать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "legen",
+   "meaning": "класть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lügen",
+   "meaning": "лгать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "führen",
+   "meaning": "вести",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "füttern",
+   "meaning": "кормить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sagen",
+   "meaning": "сказать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bezahlen",
+   "meaning": "оплачивать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "trinken",
+   "meaning": "пить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schwimmen",
+   "meaning": "плавать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "singen",
+   "meaning": "петь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "beginnen",
+   "meaning": "начинать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "klingen",
+   "meaning": "звенеть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "rufen",
+   "meaning": "звать; кричать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "anrufen",
+   "meaning": "звонить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sinken",
+   "meaning": "опускаться; погружаться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "stinken",
+   "meaning": "вонять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fliegen",
+   "meaning": "летать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wissen",
+   "meaning": "знать ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kennen",
+   "meaning": "знать",
+   "examples": " быть знакомым",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zeichnen",
+   "meaning": "рисовать",
+   "examples": " чертить",
+   "FIELD4": ""
+ },
+ {
+   "verb": "malen",
+   "meaning": "рисовать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "werfen",
+   "meaning": "кидать",
+   "examples": " бросать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wachsen",
+   "meaning": "расти",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "blasen",
+   "meaning": "дуть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sprechen",
+   "meaning": "разговаривать",
+   "examples": " говорить",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wählen",
+   "meaning": "выбирать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wecken ",
+   "meaning": "будить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "brechen",
+   "meaning": "ломать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zeigen",
+   "meaning": "показывать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schneiden ",
+   "meaning": "резать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "setzen",
+   "meaning": " sich",
+   "examples": "садиться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kosten",
+   "meaning": "стоить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lassen",
+   "meaning": "позволять; оставлять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schließen ",
+   "meaning": "закрывать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schlagen",
+   "meaning": "ударять",
+   "examples": " бить",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lesen",
+   "meaning": "читать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "senden",
+   "meaning": "посылать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "verbringen",
+   "meaning": "проводить (время)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "leihen",
+   "meaning": "одолжить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bauen",
+   "meaning": "строить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fühlen",
+   "meaning": "чувствовать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "treffen",
+   "meaning": "встречать; попасть (в цель)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schlafen",
+   "meaning": "спать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "verlassen",
+   "meaning": "покидать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kaufen",
+   "meaning": "покупать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bringen",
+   "meaning": "приносить",
+   "examples": " привозить",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lehren",
+   "meaning": "учить",
+   "examples": " обучать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "denken",
+   "meaning": "думать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kämpfen",
+   "meaning": "бороться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fangen",
+   "meaning": "ловить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "befürchten",
+   "meaning": "бояться",
+   "examples": " опасаться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "interessieren",
+   "meaning": " sich",
+   "examples": "интересоваться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "überraschen",
+   "meaning": "удивлять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "aufstehen",
+   "meaning": "вставать ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ziehen",
+   "meaning": "тянуть; перемещаться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "anziehen",
+   "meaning": "надевать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ausziehen",
+   "meaning": "снимать (одежду)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "leben",
+   "meaning": "жить ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wohnen",
+   "meaning": "проживать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "arbeiten",
+   "meaning": "работать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fernsehen",
+   "meaning": "смотреть телевизор",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "waschen",
+   "meaning": "мыть",
+   "examples": " cтирать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "rasieren",
+   "meaning": " sich",
+   "examples": "бриться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "versuchen",
+   "meaning": "пытаться",
+   "examples": " пробовать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "feiern",
+   "meaning": "праздновать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lächeln",
+   "meaning": "улыбаться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lachen",
+   "meaning": "смеяться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "weinen",
+   "meaning": "плакать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lernen",
+   "meaning": "учить(ся)",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "studieren",
+   "meaning": "учиться (в вузе); изучать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "ändern",
+   "meaning": "(из)менять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "öffnen",
+   "meaning": "открывать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "tanzen",
+   "meaning": "танцевать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "fragen",
+   "meaning": "спрашивать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bitten",
+   "meaning": "просить ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bieten",
+   "meaning": "предлагать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "antworten",
+   "meaning": "отвечать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sammeln",
+   "meaning": "собирать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "gefallen",
+   "meaning": "нравиться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kochen",
+   "meaning": "варить; готовить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "backen",
+   "meaning": "печь",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "riechen",
+   "meaning": "пахнуть; нюхать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "warten",
+   "meaning": "ждать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "erwarten",
+   "meaning": "ожидать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "danken",
+   "meaning": "благодарить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "spielen",
+   "meaning": "играть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "rauchen",
+   "meaning": "курить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "wünschen",
+   "meaning": "желать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "schreien",
+   "meaning": "кричать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "träumen",
+   "meaning": "мечтать; видеть сон",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "hoffen",
+   "meaning": "надеяться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "erinnern",
+   "meaning": " sich",
+   "examples": "вспоминать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "erinnern",
+   "meaning": "напоминать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "genießen",
+   "meaning": "наслаждаться; пользоваться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "erklären",
+   "meaning": "объяснять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bleiben",
+   "meaning": "оставаться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "erholen",
+   "meaning": " sich",
+   "examples": "отдыхать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "abbiegen",
+   "meaning": "повернуть",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "heben",
+   "meaning": "поднимать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "glauben",
+   "meaning": "верить",
+   "examples": " полагать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "helfen",
+   "meaning": "помогать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bestellen",
+   "meaning": "заказывать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "befehlen",
+   "meaning": "приказывать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "besuchen",
+   "meaning": "посещать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "prüfen ",
+   "meaning": "проверять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "springen",
+   "meaning": "прыгать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "reisen",
+   "meaning": "путешествовать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "entscheiden",
+   "meaning": "решать",
+   "examples": " принимать решение",
+   "FIELD4": ""
+ },
+ {
+   "verb": "lösen",
+   "meaning": "решать (проблему); растворять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "stimmen",
+   "meaning": "быть правильным",
+   "examples": " верным",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zustimmen",
+   "meaning": "соглашаться ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "retten",
+   "meaning": "спасать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "speichern",
+   "meaning": "сохранять",
+   "examples": " накапливать",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sparen",
+   "meaning": "экономить",
+   "examples": " копить",
+   "FIELD4": ""
+ },
+ {
+   "verb": "streiten",
+   "meaning": "спорить ",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zählen",
+   "meaning": "считать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sorgen",
+   "meaning": " sich",
+   "examples": "беспокоиться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "scherzen",
+   "meaning": "шутить",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bewegen",
+   "meaning": " sich",
+   "examples": "двигаться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "passen",
+   "meaning": "соответствовать",
+   "examples": " подходить",
+   "FIELD4": ""
+ },
+ {
+   "verb": "sterben",
+   "meaning": "умирать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "beeinflussen",
+   "meaning": "влиять",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "unterstützen",
+   "meaning": "поддерживать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "beschreiben",
+   "meaning": "описывать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "bestrafen",
+   "meaning": "наказывать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vorhaben",
+   "meaning": "намереваться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "klagen",
+   "meaning": "жаловаться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vermeiden",
+   "meaning": "избегать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "zurückkehren",
+   "meaning": "возвращаться",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "stören",
+   "meaning": "беспокоить",
+   "examples": " мешать ",
+   "FIELD4": ""
+ },
+ {
+   "verb": "vorstellen",
+   "meaning": "представлять",
+   "examples": " знакомить ",
+   "FIELD4": ""
+ },
+ {
+   "verb": "kennenlernen",
+   "meaning": "узнавать",
+   "examples": " знакомиться",
+   "FIELD4": ""
+ },
+ {
+   "verb": "überzeugen",
+   "meaning": "убеждать",
+   "examples": "",
+   "FIELD4": ""
+ },
+ {
+   "verb": "genehmigen",
+   "meaning": "позволять",
+   "examples": " санкционировать",
+   "FIELD4": " одобрять"
+ },
+ {
+   "verb": "schätzen",
+   "meaning": "ценить",
+   "examples": "",
+   "FIELD4": ""
+ }
+]

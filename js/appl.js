@@ -3,7 +3,7 @@
  */
 "use strict";
 var app = angular.module('verbs', ['ui.router']);
-var nameJSFile = 'common.json';
+var nameJSFile = 'hundertDeutch.json';
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 
