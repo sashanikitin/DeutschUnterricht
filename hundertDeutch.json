@@ -576,7 +576,7 @@
   },
   {
     "verb": "der Bahnhof",
-    "meaning": "станция",
+    "meaning": "вокзал",
     "examples": " вокзал"
   },
   {
@@ -4763,8 +4763,8 @@
   },
   {
     "verb": "setzen",
-    "meaning": " sich",
-    "examples": "садиться"
+    "meaning": " садиться",
+    "examples": "setzen, sich"
   },
   {
     "verb": "kosten",
@@ -4868,8 +4868,8 @@
   },
   {
     "verb": "interessieren",
-    "meaning": " sich",
-    "examples": "интересоваться"
+    "meaning": "интересоваться",
+    "examples": "interessieren sich"
   },
   {
     "verb": "überraschen",
@@ -4923,8 +4923,8 @@
   },
   {
     "verb": "rasieren",
-    "meaning": " sich",
-    "examples": "бриться"
+    "meaning": "бриться sich",
+    "examples": "бриться sich"
   },
   {
     "verb": "versuchen",
@@ -5068,8 +5068,8 @@
   },
   {
     "verb": "erinnern",
-    "meaning": " sich",
-    "examples": "вспоминать"
+    "meaning": "вспоминать sich",
+    "examples": "sich вспоминать"
   },
   {
     "verb": "erinnern",
@@ -5093,7 +5093,7 @@
   },
   {
     "verb": "erholen",
-    "meaning": " sich",
+    "meaning": "отдыхать sich",
     "examples": "отдыхать"
   },
   {
@@ -5193,7 +5193,7 @@
   },
   {
     "verb": "sorgen",
-    "meaning": " sich",
+    "meaning": "беспокоиться sich",
     "examples": "беспокоиться"
   },
   {
@@ -5203,7 +5203,7 @@
   },
   {
     "verb": "bewegen",
-    "meaning": " sich",
+    "meaning": "двигаться sich",
     "examples": "двигаться"
   },
   {
