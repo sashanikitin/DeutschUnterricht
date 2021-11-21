@@ -1,0 +1,1002 @@
+[
+ {
+   "verb": "das Leben",
+   "meaning": "жизнь",
+   "examples": ""
+ },
+ {
+   "verb": "lesen",
+   "meaning": "читать",
+   "examples": ""
+ },
+ {
+   "verb": "machen",
+   "meaning": "делать",
+   "examples": ""
+ },
+ {
+   "verb": "denken",
+   "meaning": "думать",
+   "examples": ""
+ },
+ {
+   "verb": "reisen",
+   "meaning": "путешествовать",
+   "examples": ""
+ },
+ {
+   "verb": "spielen",
+   "meaning": "играть",
+   "examples": ""
+ },
+ {
+   "verb": "warten",
+   "meaning": "ждать, дожидаться",
+   "examples": ""
+ },
+ {
+   "verb": "werden",
+   "meaning": "становиться, делаться",
+   "examples": ""
+ },
+ {
+   "verb": "wohnen",
+   "meaning": "жить, обитать, проживать",
+   "examples": ""
+ },
+ {
+   "verb": "das Alter",
+   "meaning": "возраст",
+   "examples": ""
+ },
+ {
+   "verb": "wollen",
+   "meaning": "хотеть",
+   "examples": ""
+ },
+ {
+   "verb": "die Eltern",
+   "meaning": "родители",
+   "examples": ""
+ },
+ {
+   "verb": "die Familie en",
+   "meaning": "семья",
+   "examples": ""
+ },
+ {
+   "verb": "die Frau en",
+   "meaning": "женщина, жена",
+   "examples": ""
+ },
+ {
+   "verb": "das Kind er",
+   "meaning": "ребенок",
+   "examples": ""
+ },
+ {
+   "verb": "das Jahr e",
+   "meaning": "год",
+   "examples": ""
+ },
+ {
+   "verb": "der Tag e",
+   "meaning": "день",
+   "examples": ""
+ },
+ {
+   "verb": "der Monat e",
+   "meaning": "месяц",
+   "examples": ""
+ },
+ {
+   "verb": "ich",
+   "meaning": "я",
+   "examples": ""
+ },
+ {
+   "verb": "die Welt en",
+   "meaning": "мир",
+   "examples": ""
+ },
+ {
+   "verb": "weiter",
+   "meaning": "дальше",
+   "examples": ""
+ },
+ {
+   "verb": "alles",
+   "meaning": "всё",
+   "examples": ""
+ },
+ {
+   "verb": "weit",
+   "meaning": "далеко",
+   "examples": ""
+ },
+ {
+   "verb": "bald",
+   "meaning": "скоро",
+   "examples": ""
+ },
+ {
+   "verb": "die Seite n",
+   "meaning": "сторона, страница",
+   "examples": ""
+ },
+ {
+   "verb": "durch",
+   "meaning": "через, сквозь",
+   "examples": ""
+ },
+ {
+   "verb": "die Zahl en",
+   "meaning": "число",
+   "examples": ""
+ },
+ {
+   "verb": "alt",
+   "meaning": "старый, пожилой, древний, старинный",
+   "examples": ""
+ },
+ {
+   "verb": "die Arbeit",
+   "meaning": "труд, работа",
+   "examples": ""
+ },
+ {
+   "verb": "frei",
+   "meaning": "свободный, независимый",
+   "examples": ""
+ },
+ {
+   "verb": "immer",
+   "meaning": "всегда",
+   "examples": ""
+ },
+ {
+   "verb": "klein",
+   "meaning": "маленький, малый, небольшой",
+   "examples": ""
+ },
+ {
+   "verb": "du",
+   "meaning": "ты",
+   "examples": ""
+ },
+ {
+   "verb": "neu",
+   "meaning": "новый, недавний",
+   "examples": ""
+ },
+ {
+   "verb": "verheiratet",
+   "meaning": "женатый, замужняя",
+   "examples": ""
+ },
+ {
+   "verb": "verwitwet",
+   "meaning": "овдовевший",
+   "examples": ""
+ },
+ {
+   "verb": "da",
+   "meaning": "тут, там, здесь",
+   "examples": ""
+ },
+ {
+   "verb": "erst",
+   "meaning": "сперва, только",
+   "examples": ""
+ },
+ {
+   "verb": "etwa",
+   "meaning": "около, приблизительно, разве",
+   "examples": ""
+ },
+ {
+   "verb": "etwas",
+   "meaning": "нечто, что-нибудь, немного",
+   "examples": ""
+ },
+ {
+   "verb": "hier",
+   "meaning": "здесь, тут, вот",
+   "examples": ""
+ },
+ {
+   "verb": "jetzt",
+   "meaning": "теперь, сейчас",
+   "examples": ""
+ },
+ {
+   "verb": "leider",
+   "meaning": "к сожалению",
+   "examples": ""
+ },
+ {
+   "verb": "noch",
+   "meaning": "(пока) ещё, по-прежнему, всё ещё",
+   "examples": ""
+ },
+ {
+   "verb": "kein",
+   "meaning": "никакой",
+   "examples": ""
+ },
+ {
+   "verb": "schon",
+   "meaning": "уже",
+   "examples": ""
+ },
+ {
+   "verb": "übrigens",
+   "meaning": "впрочем, вообще",
+   "examples": ""
+ },
+ {
+   "verb": "aber",
+   "meaning": "но",
+   "examples": ""
+ },
+ {
+   "verb": "aus",
+   "meaning": "из",
+   "examples": ""
+ },
+ {
+   "verb": "das (es)",
+   "meaning": "это",
+   "examples": ""
+ },
+ {
+   "verb": "dein",
+   "meaning": "твой (твоя, твоё, твои)",
+   "examples": ""
+ },
+ {
+   "verb": "von",
+   "meaning": "от",
+   "examples": ""
+ },
+ {
+   "verb": "was",
+   "meaning": "что?",
+   "examples": ""
+ },
+ {
+   "verb": "wer",
+   "meaning": "кто?",
+   "examples": ""
+ },
+ {
+   "verb": "wie",
+   "meaning": "как?",
+   "examples": ""
+ },
+ {
+   "verb": "wieviel",
+   "meaning": "сколько?",
+   "examples": ""
+ },
+ {
+   "verb": "ach so!",
+   "meaning": "вот как!, значит так!, ах так!",
+   "examples": ""
+ },
+ {
+   "verb": "auf Wiedersehen!",
+   "meaning": "до свидания!",
+   "examples": ""
+ },
+ {
+   "verb": "schön",
+   "meaning": "красивый, прекрасный",
+   "examples": ""
+ },
+ {
+   "verb": "stehen",
+   "meaning": "стоять",
+   "examples": ""
+ },
+ {
+   "verb": "der Abend e",
+   "meaning": "вечер",
+   "examples": ""
+ },
+ {
+   "verb": "zur Zeit",
+   "meaning": "в настоящее время",
+   "examples": ""
+ },
+ {
+   "verb": "der Mann, die Männer",
+   "meaning": "мужчина, супруг",
+   "examples": ""
+ },
+ {
+   "verb": "fest",
+   "meaning": "крепкий, прочный, твердый",
+   "examples": ""
+ },
+ {
+   "verb": "nicht",
+   "meaning": "не, ни",
+   "examples": ""
+ },
+ {
+   "verb": "der Lehrer",
+   "meaning": "учитель, преподаватель, наставник",
+   "examples": ""
+ },
+ {
+   "verb": "und",
+   "meaning": "и",
+   "examples": ""
+ },
+ {
+   "verb": "das Land, die Länder",
+   "meaning": "страна, край",
+   "examples": ""
+ },
+ {
+   "verb": "auch",
+   "meaning": "также, тоже, и, впрочем",
+   "examples": ""
+ },
+ {
+   "verb": "später",
+   "meaning": "поздний, позднеe, после этого",
+   "examples": ""
+ },
+ {
+   "verb": "dort",
+   "meaning": "там",
+   "examples": ""
+ },
+ {
+   "verb": "kaufen",
+   "meaning": "купить, покупать",
+   "examples": ""
+ },
+ {
+   "verb": "verkaufen",
+   "meaning": "продавать",
+   "examples": ""
+ },
+ {
+   "verb": "zusammen",
+   "meaning": "вместе, сообща",
+   "examples": ""
+ },
+ {
+   "verb": "dann",
+   "meaning": "тогда, потом, затем",
+   "examples": ""
+ },
+ {
+   "verb": "die Stunde n",
+   "meaning": "час",
+   "examples": ""
+ },
+ {
+   "verb": "möglich",
+   "meaning": "возможный (возможно)",
+   "examples": ""
+ },
+ {
+   "verb": "die Liebe",
+   "meaning": "любовь",
+   "examples": ""
+ },
+ {
+   "verb": "liegen",
+   "meaning": "лежать, быть расположенным",
+   "examples": ""
+ },
+ {
+   "verb": "antworten",
+   "meaning": "отвечать, давать ответ",
+   "examples": ""
+ },
+ {
+   "verb": "kommen",
+   "meaning": "приходить, прибывать",
+   "examples": ""
+ },
+ {
+   "verb": "entschuldigen",
+   "meaning": "извинять, прощать",
+   "examples": ""
+ },
+ {
+   "verb": "funktionieren",
+   "meaning": "функционировать, действовать, работать",
+   "examples": ""
+ },
+ {
+   "verb": "kosten",
+   "meaning": "стоить, пробовать",
+   "examples": ""
+ },
+ {
+   "verb": "sagen",
+   "meaning": "сказать, говорить",
+   "examples": ""
+ },
+ {
+   "verb": "spülen",
+   "meaning": "полоскать, промывать, мыть",
+   "examples": ""
+ },
+ {
+   "verb": "stimmen",
+   "meaning": "соответствовать (истине), быть верным",
+   "examples": ""
+ },
+ {
+   "verb": "waschen",
+   "meaning": "мыть, стирать, промывать",
+   "examples": ""
+ },
+ {
+   "verb": "wechseln",
+   "meaning": "менять(ся), обменивать, разменивать",
+   "examples": ""
+ },
+ {
+   "verb": "die Antwort en",
+   "meaning": "ответ, отклик",
+   "examples": ""
+ },
+ {
+   "verb": "das Benzin",
+   "meaning": "бензин",
+   "examples": ""
+ },
+ {
+   "verb": "das Bett en",
+   "meaning": "постель, кровать",
+   "examples": ""
+ },
+ {
+   "verb": "das Bild er",
+   "meaning": "картина, рисунок",
+   "examples": ""
+ },
+ {
+   "verb": "der Fehler",
+   "meaning": "ошибка",
+   "examples": ""
+ },
+ {
+   "verb": "heissen",
+   "meaning": "называть, зваться",
+   "examples": ""
+ },
+ {
+   "verb": "das Geld",
+   "meaning": "деньги",
+   "examples": ""
+ },
+ {
+   "verb": "das Geschäft e",
+   "meaning": "дело, занятие, сделка, магазин",
+   "examples": ""
+ },
+ {
+   "verb": "das Haus, die Häuser",
+   "meaning": "дом, здание, строение",
+   "examples": ""
+ },
+ {
+   "verb": "der Haushalt e",
+   "meaning": "домашнее хозяйство",
+   "examples": ""
+ },
+ {
+   "verb": "der Herd e",
+   "meaning": "очаг, плита",
+   "examples": ""
+ },
+ {
+   "verb": "die Idee n",
+   "meaning": "идея, мысль",
+   "examples": ""
+ },
+ {
+   "verb": "können",
+   "meaning": "мочь, уметь",
+   "examples": ""
+ },
+ {
+   "verb": "schnell",
+   "meaning": "быстро",
+   "examples": ""
+ },
+ {
+   "verb": "sein",
+   "meaning": "быть",
+   "examples": ""
+ },
+ {
+   "verb": "das Regal e",
+   "meaning": "полка, стеллаж",
+   "examples": ""
+ },
+ {
+   "verb": "anders",
+   "meaning": "по-другому",
+   "examples": ""
+ },
+ {
+   "verb": "in",
+   "meaning": "в, внутри",
+   "examples": ""
+ },
+ {
+   "verb": "haben",
+   "meaning": "иметь",
+   "examples": ""
+ },
+ {
+   "verb": "der Stuhl, die Stühle",
+   "meaning": "стул",
+   "examples": ""
+ },
+ {
+   "verb": "der Tisch e",
+   "meaning": "стол",
+   "examples": ""
+ },
+ {
+   "verb": "der Topf, die Töpfe",
+   "meaning": "горшок, кастрюля",
+   "examples": ""
+ },
+ {
+   "verb": "die Uhr en",
+   "meaning": "часы",
+   "examples": ""
+ },
+ {
+   "verb": "die Sonne",
+   "meaning": "солнце",
+   "examples": ""
+ },
+ {
+   "verb": "gehen",
+   "meaning": "идти, ходить, уходить",
+   "examples": ""
+ },
+ {
+   "verb": "die Zeit",
+   "meaning": "время",
+   "examples": ""
+ },
+ {
+   "verb": "ähnlich",
+   "meaning": "похожий, сходный, подобный",
+   "examples": ""
+ },
+ {
+   "verb": "sehen",
+   "meaning": "смотреть, глядеть",
+   "examples": ""
+ },
+ {
+   "verb": "ehrlich",
+   "meaning": "честный, порядочный",
+   "examples": ""
+ },
+ {
+   "verb": "kaputt",
+   "meaning": "разбитый, сломанный",
+   "examples": ""
+ },
+ {
+   "verb": "gross",
+   "meaning": "большой, крупный",
+   "examples": ""
+ },
+ {
+   "verb": "lustig",
+   "meaning": "весёлый, забавный",
+   "examples": ""
+ },
+ {
+   "verb": "originell",
+   "meaning": "оригинальный, своеобразный",
+   "examples": ""
+ },
+ {
+   "verb": "sehr",
+   "meaning": "очень, весьма, крайне",
+   "examples": ""
+ },
+ {
+   "verb": "heute",
+   "meaning": "сегодня",
+   "examples": ""
+ },
+ {
+   "verb": "viel",
+   "meaning": "много, многие, многое",
+   "examples": ""
+ },
+ {
+   "verb": "oder",
+   "meaning": "или",
+   "examples": ""
+ },
+ {
+   "verb": "sondern",
+   "meaning": "а, но",
+   "examples": ""
+ },
+ {
+   "verb": "zu",
+   "meaning": "к, на, в",
+   "examples": ""
+ },
+ {
+   "verb": "raus",
+   "meaning": "наружу",
+   "examples": ""
+ },
+ {
+   "verb": "danke",
+   "meaning": "спасибо",
+   "examples": ""
+ },
+ {
+   "verb": "bitte",
+   "meaning": "пожалуйста",
+   "examples": ""
+ },
+ {
+   "verb": "die Lampe n",
+   "meaning": "лампа",
+   "examples": ""
+ },
+ {
+   "verb": "trinken",
+   "meaning": "пить",
+   "examples": ""
+ },
+ {
+   "verb": "essen",
+   "meaning": "есть, кушать",
+   "examples": ""
+ },
+ {
+   "verb": "der Bleistift e",
+   "meaning": "карандаш",
+   "examples": ""
+ },
+ {
+   "verb": "ordnen",
+   "meaning": "приводить в порядок, систематизировать",
+   "examples": ""
+ },
+ {
+   "verb": "der Beruf e",
+   "meaning": "профессия, специальность",
+   "examples": ""
+ },
+ {
+   "verb": "der Arzt, die Ärzte",
+   "meaning": "врач, доктор",
+   "examples": ""
+ },
+ {
+   "verb": "der Baum, die Bäume",
+   "meaning": "дерево",
+   "examples": ""
+ },
+ {
+   "verb": "nach",
+   "meaning": "после",
+   "examples": ""
+ },
+ {
+   "verb": "auf",
+   "meaning": "на (горизонтальной поверхности)",
+   "examples": ""
+ },
+ {
+   "verb": "gegen",
+   "meaning": "против, около",
+   "examples": ""
+ },
+ {
+   "verb": "als",
+   "meaning": "как, когда",
+   "examples": ""
+ },
+ {
+   "verb": "das Auto s",
+   "meaning": "автомобиль",
+   "examples": ""
+ },
+ {
+   "verb": "er",
+   "meaning": "он",
+   "examples": ""
+ },
+ {
+   "verb": "bestellen",
+   "meaning": "заказывать",
+   "examples": ""
+ },
+ {
+   "verb": "bezahlen",
+   "meaning": "платить, выплачивать",
+   "examples": ""
+ },
+ {
+   "verb": "brauchen",
+   "meaning": "нуждаться",
+   "examples": ""
+ },
+ {
+   "verb": "genau",
+   "meaning": "точно, именно",
+   "examples": ""
+ },
+ {
+   "verb": "glauben",
+   "meaning": "полагать, думать, верить",
+   "examples": ""
+ },
+ {
+   "verb": "kochen",
+   "meaning": "варить, готовить (пищу), стряпать",
+   "examples": ""
+ },
+ {
+   "verb": "mögen",
+   "meaning": "любить, чувствовать расположение",
+   "examples": ""
+ },
+ {
+   "verb": "über",
+   "meaning": "над",
+   "examples": ""
+ },
+ {
+   "verb": "üben",
+   "meaning": "упражняться",
+   "examples": ""
+ },
+ {
+   "verb": "das Abendessen",
+   "meaning": "ужин",
+   "examples": ""
+ },
+ {
+   "verb": "die Anzeige n",
+   "meaning": "объявление, заявление",
+   "examples": ""
+ },
+ {
+   "verb": "der Apfel, die Äpfel",
+   "meaning": "яблоко",
+   "examples": ""
+ },
+ {
+   "verb": "müssen",
+   "meaning": "быть должным",
+   "examples": ""
+ },
+ {
+   "verb": "das Brot e",
+   "meaning": "хлеб",
+   "examples": ""
+ },
+ {
+   "verb": "zwischen",
+   "meaning": "между",
+   "examples": ""
+ },
+ {
+   "verb": "die Butter",
+   "meaning": "масло (животное)",
+   "examples": ""
+ },
+ {
+   "verb": "unter",
+   "meaning": "под",
+   "examples": ""
+ },
+ {
+   "verb": "das Ei, die Eier",
+   "meaning": "яйцо",
+   "examples": ""
+ },
+ {
+   "verb": "das Eis",
+   "meaning": "лёд, мороженое",
+   "examples": ""
+ },
+ {
+   "verb": "die Erdbeere n",
+   "meaning": "клубника, земляника",
+   "examples": ""
+ },
+ {
+   "verb": "die Flasche n",
+   "meaning": "бутылка, фляжка",
+   "examples": ""
+ },
+ {
+   "verb": "das Fleisch",
+   "meaning": "мясо",
+   "examples": ""
+ },
+ {
+   "verb": "die Frage n",
+   "meaning": "вопрос",
+   "examples": ""
+ },
+ {
+   "verb": "selbst",
+   "meaning": "сам",
+   "examples": ""
+ },
+ {
+   "verb": "das Frühstück e",
+   "meaning": "завтрак",
+   "examples": ""
+ },
+ {
+   "verb": "die Gabel n",
+   "meaning": "вилка",
+   "examples": ""
+ },
+ {
+   "verb": "die Zeitung en",
+   "meaning": "газета",
+   "examples": ""
+ },
+ {
+   "verb": "das Gemüse",
+   "meaning": "овощи, зелень",
+   "examples": ""
+ },
+ {
+   "verb": "das Gericht e",
+   "meaning": "блюдо, кушанье, суд",
+   "examples": ""
+ },
+ {
+   "verb": "das Gespräch e",
+   "meaning": "разговор, беседа",
+   "examples": ""
+ },
+ {
+   "verb": "das Getränk e",
+   "meaning": "напиток, питьё",
+   "examples": ""
+ },
+ {
+   "verb": "das Gewürz e",
+   "meaning": "пряности, приправа",
+   "examples": ""
+ },
+ {
+   "verb": "das Glas, die Gläser",
+   "meaning": "стекло, стакан, рюмка",
+   "examples": ""
+ },
+ {
+   "verb": "das Prozent e",
+   "meaning": "процент",
+   "examples": ""
+ },
+ {
+   "verb": "der Käse",
+   "meaning": "сыр, творог",
+   "examples": ""
+ },
+ {
+   "verb": "der Kuchen",
+   "meaning": "пирог, пирожное",
+   "examples": ""
+ },
+ {
+   "verb": "der Löffel",
+   "meaning": "ложка",
+   "examples": ""
+ },
+ {
+   "verb": "mehr",
+   "meaning": "больше",
+   "examples": ""
+ },
+ {
+   "verb": "das Messer",
+   "meaning": "нож",
+   "examples": ""
+ },
+ {
+   "verb": "der Nachtisch e",
+   "meaning": "десерт",
+   "examples": ""
+ },
+ {
+   "verb": "das Öl e",
+   "meaning": "масло (растительное)",
+   "examples": ""
+ },
+ {
+   "verb": "der Pfeffer",
+   "meaning": "перец",
+   "examples": ""
+ },
+ {
+   "verb": "die Blume",
+   "meaning": "цветок",
+   "examples": ""
+ },
+ {
+   "verb": "der Preis e",
+   "meaning": "цена",
+   "examples": ""
+ },
+ {
+   "verb": "der Reis",
+   "meaning": "рис",
+   "examples": ""
+ },
+ {
+   "verb": "der Saft, die Säfte",
+   "meaning": "сок",
+   "examples": ""
+ },
+ {
+   "verb": "die Sahne",
+   "meaning": "сливки",
+   "examples": ""
+ },
+ {
+   "verb": "der Schinken",
+   "meaning": "ветчина",
+   "examples": ""
+ },
+ {
+   "verb": "die Sosse n",
+   "meaning": "соус, подливка",
+   "examples": ""
+ },
+ {
+   "verb": "langsam",
+   "meaning": "медленно",
+   "examples": ""
+ },
+ {
+   "verb": "das Wasser",
+   "meaning": "вода",
+   "examples": ""
+ },
+ {
+   "verb": "die Suppe n",
+   "meaning": "суп, похлёбка",
+   "examples": ""
+ },
+ {
+   "verb": "die Tasse n",
+   "meaning": "чашка (чайная)",
+   "examples": ""
+ },
+ {
+   "verb": "der Teller",
+   "meaning": "тарелка",
+   "examples": ""
+ },
+ {
+   "verb": "die Tomate n",
+   "meaning": "помидор",
+   "examples": ""
+ }
+]
